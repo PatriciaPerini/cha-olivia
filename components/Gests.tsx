@@ -37,4 +37,5 @@ export const guests: Record<string, string[]> = {
   teresa: ["Teresa", "Geraldo"],
   jeniffer: ["Jeniffer", "Carlos Henrique", "Bernardo"],
   taisa: ["Taísa"],
+  graca: ["Graça"],
 };
